@@ -1,3 +1,4 @@
+
 .navigator {
   height: 80vh;
   display: flex;
@@ -12,11 +13,11 @@
 }
 
 .navigator ul li:first-child {
-  margin-top: 0;
+  margin-top: 0; 
 }
 
 .navigator ul li:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0; 
 }
 
 .navigator ul li a {
@@ -41,7 +42,7 @@
   z-index: 0;
 }
 
-.navigator ul {
+.navigator ul{
   z-index: 1;
 }
 
